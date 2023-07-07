@@ -7,7 +7,7 @@ Physicist and Developer
 I coded during my academic years and now I am switching carrier into development. I learn Python, Java, JavaScript with TypeScript and frontend frameworks.
 
 *   🌍  I'm based in Poznań
-*   ✉️  You can contact me at [jul.inverse@gmail.com](mailto:jul.inverse@gmail.com)
+*   ✉️  You can contact me at [w.m.materkowska@gmail.com](mailto:w.m.materkowska@gmail.com)
 *   🚀  I'm currently working on [SetApp](http://github.com/blauprint)
 *   🧠  I'm learning full-stack development
 *   🤝  I'm open to collaborating on interesting projects connected with science### Skills 
