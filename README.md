@@ -10,7 +10,9 @@ I coded during my academic years and now I am switching carrier into development
 *   ✉️  You can contact me at [w.m.materkowska@gmail.com](mailto:w.m.materkowska@gmail.com)
 *   🚀  I'm currently working on [SetApp](http://github.com/blauprint)
 *   🧠  I'm learning full-stack development
-*   🤝  I'm open to collaborating on interesting projects connected with science### Skills 
+*   🤝  I'm open to collaborating on interesting projects connected with science
+    
+### Skills
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,11 +34,11 @@ I coded during my academic years and now I am switching carrier into development
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 </p>
                     
-### Socials
-                  
-                  
+### Socials               
 <p align="left">
                           
 <a href="https://www.github.com/wmaterkowska" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           
-<a href="https://www.linkedin.com/in/weronika-materkowska-848142231/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/wmaterkowska/seismica" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmaterkowska&repo=seismica&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://www.linkedin.com/in/weronika-materkowska-848142231/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
+<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/wmaterkowska/seismica" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmaterkowska&repo=seismica&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
