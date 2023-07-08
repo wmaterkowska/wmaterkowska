@@ -9,8 +9,8 @@ I coded during my academic years and now I am switching carrier into development
 *   🌍  I'm based in Poznań
 *   ✉️  You can contact me at [w.m.materkowska@gmail.com](mailto:w.m.materkowska@gmail.com)
 *   🚀  I'm currently working on [SetApp](http://github.com/blauprint)
-*   🧠  I'm learning full-stack development
-*   🤝  I'm open to collaborating on interesting projects connected with science
+*   🧠  I'm improving my full-stack development skills
+*   🤝  I'm open to collaborating on interesting projects connected to science
     
 ### Skills
 <p align="left">
