@@ -4,7 +4,7 @@ Hello there! My name is Weronika Materkowska
 Physicist and Developer
 -----------------------
 
-I coded during my academic years and now I am switching carrier into development. I learn Python, Java, JavaScript with TypeScript and frontend frameworks.
+I have started my journey into development after coding during my academic years. I have learned Python, Java, JavaScript with TypeScript, and various frontend frameworks.
 
 *   🌍  I'm based in Poznań
 *   ✉️  You can contact me at [w.m.materkowska@gmail.com](mailto:w.m.materkowska@gmail.com)
