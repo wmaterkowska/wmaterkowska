@@ -45,5 +45,8 @@ I currently work as a full-stack developer at **Accenture**, where I have the op
 **Top Repositories**  
 <div width="100%" align="center">  
 <a href="https://github.com/wmaterkowska/seismica" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmaterkowska&repo=seismica&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>  
-</div>  
+</div> 
+<div width="100%" align="center">  
+<a href="https://github.com/wmaterkowska/wardrobe-organizer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wmaterkowska&repo=wardrobe-organizer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>  
+</div> 
 <br /><br /><br /><br /><br /><br /><br />  
